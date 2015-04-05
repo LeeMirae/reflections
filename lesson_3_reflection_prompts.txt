@@ -32,4 +32,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Making changes in the master branch saves me time, but in case of mistakes the original file might be lost. 
+
+    If I create a separate branch, I could work on it first, and then, if my version is approved by others, I could merge it into the master.
