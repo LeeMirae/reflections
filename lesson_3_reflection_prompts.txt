@@ -27,7 +27,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Probably by using Google Docs or Dropbox. Git is not an easy version-control program, learning it takes time. However, it has a nubmer or advantages. It helps control changes made to the code. It enables communication between all members working on the project. It allows to create different versions of the same file without "breaking" the main version (master).  
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
