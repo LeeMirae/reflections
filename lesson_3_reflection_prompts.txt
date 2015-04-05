@@ -22,7 +22,7 @@ Branch - creating branches can only be done locally.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+   You would know the state of the remote repository at the moment when you last pulled data. You would be able to compare this version with the one you might modify locally.  
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
